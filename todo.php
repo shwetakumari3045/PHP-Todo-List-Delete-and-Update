@@ -20,7 +20,7 @@ $result = $conn->query($sql);
 
 
 <div class="bg-white text-dark text-center py-2 px-4 rounded shadow-lg">
-    <h1>Todo List</h1> <!-- display-3 for large header -->
+    <h1>Todo List</h1> 
   </div>
 
 <div class="container mt-5">
